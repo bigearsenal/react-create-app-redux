@@ -1,7 +1,7 @@
 {
-  "name": "bigvalut-react",
+  "name": "create-react-app-redux",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
