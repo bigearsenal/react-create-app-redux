@@ -1,3 +1,17 @@
+## Starter kit for react-create-app and redux
+This starter kit was built on top of react-create-app and was implemented with redux.
+Happy to use, no headache needed.
+
+## Installation
+To get started, open terminal and do-what-i-say
+```bash
+$ git clone https://github.com/bigearsenal/react-create-app-redux.git <my-project-name>
+$ cd <my-project-name>
+$ npm start
+```
+
+## README.MD BY create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
