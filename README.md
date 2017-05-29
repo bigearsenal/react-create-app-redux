@@ -7,6 +7,7 @@ To get started, open terminal and do-what-i-say
 ```bash
 $ git clone https://github.com/bigearsenal/react-create-app-redux.git <my-project-name>
 $ cd <my-project-name>
+$ npm install
 $ npm start
 ```
 
